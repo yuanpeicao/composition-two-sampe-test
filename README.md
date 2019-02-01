@@ -1,4 +1,4 @@
-# Two-Sample Tests of High-Dimensional Means for Compositional Data
+# Two-sample Tests of High-Dimensional Means for Compositional Data
 
 In this repo, we consider a two-sample testing problem for high-dimensional compositional data and formulate a testable hypothesis of compositional equivalence for the means of
 two latent log-basis vectors. We propose a test through the centered log-ratio transformation of
