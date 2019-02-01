@@ -10,4 +10,4 @@ Reference:
 Cao, Y., Lin, W. and Li, H. (2018). Two-sample tests of high-dimensional means for compositional data,
 Biometrika.
 
-Please see https://academic.oup.com/biomet/article/105/1/115/4591648
+Please see https://academic.oup.com/biomet/article/105/1/115/4591648 and http://www.math.pku.edu.cn/teachers/linw/papers/cao_lin_li18.pdf.
