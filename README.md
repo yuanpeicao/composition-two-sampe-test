@@ -7,7 +7,7 @@ against sparse alternatives is investigated. A modified test for paired samples 
 
 Reference:
 
-Cao, Y., Lin, W. and Li, H. (2017). Two-sample tests of high-dimensional means for compositional data,
+Cao, Y., Lin, W. and Li, H. (2018). Two-sample tests of high-dimensional means for compositional data,
 Biometrika.
 
-Please see https://academic.oup.com/biomet/advance-article-abstract/doi/10.1093/biomet/asx060/4591648
+Please see https://academic.oup.com/biomet/article/105/1/115/4591648
